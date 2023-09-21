@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vraj\\OneDrive - SOTI Inc\\Desktop\\Training\\DOTNET\\BDD\\SpecFlowProject1\\SpecFlowProject2\\SpecFlowProject2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vraj\\OneDrive - SOTI Inc\\Desktop\\Training\\DOTNET\\BDD\\SpecFlowProject1\\SpecFlowProject2\\SpecFlowProject2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vraj\\OneDrive - SOTI Inc\\Desktop\\Training\\DOTNET\\BDD\\SpecFlowProject1\\SpecFlowProject2\\SpecFlowProject2.csproj",
+        "projectName": "SpecFlowProject2",
+        "projectPath": "C:\\Users\\vraj\\OneDrive - SOTI Inc\\Desktop\\Training\\DOTNET\\BDD\\SpecFlowProject1\\SpecFlowProject2\\SpecFlowProject2.csproj",
+        "packagesPath": "C:\\Users\\vraj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vraj\\OneDrive - SOTI Inc\\Desktop\\Training\\DOTNET\\BDD\\SpecFlowProject1\\SpecFlowProject2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.40, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

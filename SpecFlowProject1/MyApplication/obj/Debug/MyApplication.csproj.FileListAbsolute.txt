@@ -1,0 +1,6 @@
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\MyApplication\bin\Debug\MyApplication.dll
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\MyApplication\bin\Debug\MyApplication.pdb
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\MyApplication\obj\Debug\MyApplication.csproj.AssemblyReference.cache
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\MyApplication\obj\Debug\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\MyApplication\obj\Debug\MyApplication.dll
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\MyApplication\obj\Debug\MyApplication.pdb

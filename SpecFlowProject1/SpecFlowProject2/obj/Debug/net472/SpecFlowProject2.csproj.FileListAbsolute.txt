@@ -1,0 +1,7 @@
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\SpecFlowProject2\obj\Debug\net472\SpecFlowProject2.csproj.AssemblyReference.cache
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\SpecFlowProject2\obj\Debug\net472\SpecFlowProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\SpecFlowProject2\obj\Debug\net472\SpecFlowProject2.dll.config
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\SpecFlowProject2\obj\Debug\net472\SpecFlowProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\SpecFlowProject2\obj\Debug\net472\SpecFlowProject2.AssemblyInfoInputs.cache
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\SpecFlowProject2\obj\Debug\net472\SpecFlowProject2.AssemblyInfo.cs
+C:\Users\vraj\OneDrive - SOTI Inc\Desktop\Training\DOTNET\BDD\SpecFlowProject1\SpecFlowProject2\obj\Debug\net472\SpecFlowProject2.csproj.CoreCompileInputs.cache
